@@ -1,0 +1,2001 @@
+step,item,status,reinserts,hit_ratio
+1,PacketResponder <*> for block blk_<*> terminating,MISS,0,0.000000
+2,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.500000
+3,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,MISS,0,0.333333
+4,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.500000
+5,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.600000
+6,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.666667
+7,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.714286
+8,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.750000
+9,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.777778
+10,Received block blk_<*> of size <*> from /<*>,MISS,0,0.700000
+11,Received block blk_<*> of size <*> from /<*>,HIT,0,0.727273
+12,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,MISS,0,0.666667
+13,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.692308
+14,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.714286
+15,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.733333
+16,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,MISS,0,0.687500
+17,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.705882
+18,Received block blk_<*> of size <*> from /<*>,HIT,0,0.722222
+19,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.736842
+20,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.750000
+21,Received block blk_<*> of size <*> from /<*>,HIT,0,0.761905
+22,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.772727
+23,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.782609
+24,Received block blk_<*> of size <*> from /<*>,HIT,0,0.791667
+25,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.800000
+26,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.807692
+27,Received block blk_<*> of size <*> from /<*>,HIT,0,0.814815
+28,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.821429
+29,Verification succeeded for blk_<*>,MISS,0,0.793103
+30,Received block blk_<*> of size <*> from /<*>,HIT,0,0.800000
+31,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.806452
+32,Received block blk_<*> of size <*> from /<*>,HIT,0,0.812500
+33,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.818182
+34,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.823529
+35,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.828571
+36,Received block blk_<*> of size <*> from /<*>,HIT,0,0.833333
+37,Received block blk_<*> of size <*> from /<*>,HIT,0,0.837838
+38,Received block blk_<*> of size <*> from /<*>,HIT,0,0.842105
+39,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.846154
+40,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.850000
+41,Received block blk_<*> of size <*> from /<*>,HIT,0,0.853659
+42,Received block blk_<*> of size <*> from /<*>,HIT,0,0.857143
+43,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.860465
+44,Received block blk_<*> of size <*> from /<*>,HIT,0,0.863636
+45,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.866667
+46,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.869565
+47,Received block blk_<*> of size <*> from /<*>,HIT,0,0.872340
+48,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.875000
+49,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.877551
+50,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.880000
+51,Received block blk_<*> of size <*> from /<*>,HIT,0,0.882353
+52,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.884615
+53,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.886792
+54,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.888889
+55,Received block blk_<*> of size <*> from /<*>,HIT,0,0.890909
+56,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.892857
+57,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.894737
+58,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.896552
+59,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.898305
+60,Received block blk_<*> of size <*> from /<*>,HIT,0,0.900000
+61,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.901639
+62,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.903226
+63,Received block blk_<*> of size <*> from /<*>,HIT,0,0.904762
+64,Received block blk_<*> of size <*> from /<*>,HIT,0,0.906250
+65,Received block blk_<*> of size <*> from /<*>,HIT,0,0.907692
+66,Received block blk_<*> of size <*> from /<*>,HIT,0,0.909091
+67,Received block blk_<*> of size <*> from /<*>,HIT,0,0.910448
+68,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.911765
+69,Received block blk_<*> of size <*> from /<*>,HIT,0,0.913043
+70,Verification succeeded for blk_<*>,HIT,0,0.914286
+71,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.915493
+72,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.916667
+73,Deleting block blk_<*> file /<*>/blk_<*>,MISS,0,0.904110
+74,<*>:<*> Served block blk_<*> to /<*>,MISS,0,0.891892
+75,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.893333
+76,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.894737
+77,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.896104
+78,<*>:<*>:Got exception while serving blk_<*> to /<*>:,MISS,0,0.884615
+79,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.886076
+80,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.887500
+81,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.888889
+82,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.890244
+83,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.891566
+84,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.892857
+85,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.894118
+86,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.895349
+87,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.896552
+88,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.897727
+89,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.898876
+90,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.900000
+91,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.901099
+92,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.902174
+93,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.903226
+94,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.904255
+95,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.905263
+96,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.906250
+97,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.907216
+98,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.908163
+99,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.909091
+100,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.910000
+101,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.910891
+102,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.911765
+103,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.912621
+104,Received block blk_<*> of size <*> from /<*>,HIT,0,0.913462
+105,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.914286
+106,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.915094
+107,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.915888
+108,Received block blk_<*> of size <*> from /<*>,HIT,0,0.916667
+109,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.917431
+110,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.918182
+111,Received block blk_<*> of size <*> from /<*>,HIT,0,0.918919
+112,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.919643
+113,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.920354
+114,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.921053
+115,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.921739
+116,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.922414
+117,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.923077
+118,Received block blk_<*> of size <*> from /<*>,HIT,0,0.923729
+119,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.924370
+120,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.925000
+121,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.925620
+122,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.926230
+123,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.926829
+124,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.927419
+125,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.928000
+126,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.928571
+127,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.929134
+128,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.929688
+129,Received block blk_<*> of size <*> from /<*>,HIT,0,0.930233
+130,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.930769
+131,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.931298
+132,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.931818
+133,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.932331
+134,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.932836
+135,Received block blk_<*> of size <*> from /<*>,HIT,0,0.933333
+136,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.933824
+137,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.934307
+138,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.934783
+139,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.935252
+140,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.935714
+141,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.936170
+142,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.936620
+143,Received block blk_<*> of size <*> from /<*>,HIT,0,0.937063
+144,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.937500
+145,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.937931
+146,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.938356
+147,Received block blk_<*> of size <*> from /<*>,HIT,0,0.938776
+148,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.939189
+149,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.939597
+150,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.940000
+151,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.940397
+152,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.940789
+153,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.941176
+154,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.941558
+155,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.941935
+156,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.942308
+157,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.942675
+158,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.943038
+159,Received block blk_<*> of size <*> from /<*>,HIT,0,0.943396
+160,Received block blk_<*> of size <*> from /<*>,HIT,0,0.943750
+161,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.944099
+162,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.944444
+163,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.944785
+164,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.945122
+165,Received block blk_<*> of size <*> from /<*>,HIT,0,0.945455
+166,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.945783
+167,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.946108
+168,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.946429
+169,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.946746
+170,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.947059
+171,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.947368
+172,Received block blk_<*> of size <*> from /<*>,HIT,0,0.947674
+173,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.947977
+174,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.948276
+175,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.948571
+176,Verification succeeded for blk_<*>,HIT,0,0.948864
+177,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.949153
+178,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.949438
+179,Received block blk_<*> of size <*> from /<*>,HIT,0,0.949721
+180,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.950000
+181,Received block blk_<*> of size <*> from /<*>,HIT,0,0.950276
+182,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.950549
+183,Received block blk_<*> of size <*> from /<*>,HIT,0,0.950820
+184,Received block blk_<*> of size <*> from /<*>,HIT,0,0.951087
+185,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.951351
+186,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.951613
+187,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.951872
+188,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.952128
+189,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.952381
+190,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.952632
+191,Received block blk_<*> of size <*> from /<*>,HIT,0,0.952880
+192,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.953125
+193,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.953368
+194,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.953608
+195,Received block blk_<*> of size <*> from /<*>,HIT,0,0.953846
+196,Received block blk_<*> of size <*> from /<*>,HIT,0,0.954082
+197,Verification succeeded for blk_<*>,HIT,0,0.954315
+198,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.954545
+199,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.954774
+200,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.955000
+201,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.955224
+202,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.955446
+203,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.955665
+204,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.955882
+205,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.956098
+206,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.956311
+207,Received block blk_<*> of size <*> from /<*>,HIT,0,0.956522
+208,Received block blk_<*> of size <*> from /<*>,HIT,0,0.956731
+209,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.956938
+210,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.957143
+211,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.957346
+212,Received block blk_<*> of size <*> from /<*>,HIT,0,0.957547
+213,Received block blk_<*> of size <*> from /<*>,HIT,0,0.957746
+214,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.957944
+215,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.958140
+216,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.958333
+217,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.958525
+218,Received block blk_<*> of size <*> from /<*>,HIT,0,0.958716
+219,Received block blk_<*> of size <*> from /<*>,HIT,0,0.958904
+220,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.959091
+221,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.959276
+222,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.959459
+223,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.959641
+224,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.959821
+225,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.960000
+226,Received block blk_<*> of size <*> from /<*>,HIT,0,0.960177
+227,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.960352
+228,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.960526
+229,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.960699
+230,Received block blk_<*> of size <*> from /<*>,HIT,0,0.960870
+231,Received block blk_<*> of size <*> from /<*>,HIT,0,0.961039
+232,Received block blk_<*> of size <*> from /<*>,HIT,0,0.961207
+233,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.961373
+234,Received block blk_<*> of size <*> from /<*>,HIT,0,0.961538
+235,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.961702
+236,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.961864
+237,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.962025
+238,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.962185
+239,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.962343
+240,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.962500
+241,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.962656
+242,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.962810
+243,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.962963
+244,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.963115
+245,Received block blk_<*> of size <*> from /<*>,HIT,0,0.963265
+246,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.963415
+247,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.963563
+248,Received block blk_<*> of size <*> from /<*>,HIT,0,0.963710
+249,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.963855
+250,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.964000
+251,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.964143
+252,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.964286
+253,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.964427
+254,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.964567
+255,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.964706
+256,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.964844
+257,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.964981
+258,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.965116
+259,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.965251
+260,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.965385
+261,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.965517
+262,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.965649
+263,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.965779
+264,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.965909
+265,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.966038
+266,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.966165
+267,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.966292
+268,Received block blk_<*> of size <*> from /<*>,HIT,0,0.966418
+269,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.966543
+270,Received block blk_<*> of size <*> from /<*>,HIT,0,0.966667
+271,Received block blk_<*> of size <*> from /<*>,HIT,0,0.966790
+272,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.966912
+273,Received block blk_<*> of size <*> from /<*>,HIT,0,0.967033
+274,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.967153
+275,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.967273
+276,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.967391
+277,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.967509
+278,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.967626
+279,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.967742
+280,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.967857
+281,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.967972
+282,Received block blk_<*> of size <*> from /<*>,HIT,0,0.968085
+283,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.968198
+284,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.968310
+285,Received block blk_<*> of size <*> from /<*>,HIT,0,0.968421
+286,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.968531
+287,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.968641
+288,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.968750
+289,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.968858
+290,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.968966
+291,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.969072
+292,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,MISS,0,0.965753
+293,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.965870
+294,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.965986
+295,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.966102
+296,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.966216
+297,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.966330
+298,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.966443
+299,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.966555
+300,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.966667
+301,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.966777
+302,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.966887
+303,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.966997
+304,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967105
+305,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967213
+306,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967320
+307,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967427
+308,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967532
+309,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967638
+310,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.967742
+311,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967846
+312,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.967949
+313,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968051
+314,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968153
+315,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968254
+316,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968354
+317,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.968454
+318,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968553
+319,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.968652
+320,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.968750
+321,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968847
+322,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.968944
+323,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.969040
+324,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.969136
+325,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.969231
+326,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.969325
+327,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.969419
+328,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.969512
+329,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.969605
+330,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.969697
+331,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.969789
+332,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.969880
+333,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.969970
+334,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.970060
+335,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.970149
+336,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.970238
+337,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.970326
+338,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.970414
+339,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.970501
+340,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.970588
+341,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.970674
+342,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.970760
+343,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.970845
+344,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.970930
+345,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.971014
+346,Verification succeeded for blk_<*>,HIT,0,0.971098
+347,Verification succeeded for blk_<*>,HIT,0,0.971182
+348,Verification succeeded for blk_<*>,HIT,0,0.971264
+349,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.971347
+350,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.971429
+351,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.971510
+352,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.971591
+353,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.971671
+354,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.971751
+355,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.971831
+356,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.971910
+357,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.971989
+358,Verification succeeded for blk_<*>,HIT,0,0.972067
+359,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.972145
+360,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.972222
+361,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.972299
+362,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972376
+363,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972452
+364,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972527
+365,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972603
+366,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972678
+367,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972752
+368,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972826
+369,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972900
+370,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.972973
+371,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973046
+372,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973118
+373,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973190
+374,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973262
+375,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973333
+376,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973404
+377,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973475
+378,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973545
+379,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973615
+380,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973684
+381,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973753
+382,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973822
+383,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973890
+384,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.973958
+385,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974026
+386,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974093
+387,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974160
+388,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974227
+389,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974293
+390,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974359
+391,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974425
+392,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974490
+393,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974555
+394,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974619
+395,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974684
+396,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974747
+397,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974811
+398,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974874
+399,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.974937
+400,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975000
+401,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975062
+402,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975124
+403,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975186
+404,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975248
+405,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975309
+406,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975369
+407,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975430
+408,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975490
+409,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975550
+410,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975610
+411,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975669
+412,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975728
+413,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975787
+414,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975845
+415,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975904
+416,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.975962
+417,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976019
+418,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976077
+419,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976134
+420,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976190
+421,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976247
+422,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976303
+423,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976359
+424,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976415
+425,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.976471
+426,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976526
+427,Received block blk_<*> of size <*> from /<*>,HIT,0,0.976581
+428,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976636
+429,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976690
+430,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976744
+431,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976798
+432,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976852
+433,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.976905
+434,Received block blk_<*> of size <*> from /<*>,HIT,0,0.976959
+435,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977011
+436,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.977064
+437,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.977117
+438,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977169
+439,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977221
+440,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977273
+441,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977324
+442,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977376
+443,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977427
+444,Received block blk_<*> of size <*> from /<*>,HIT,0,0.977477
+445,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977528
+446,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977578
+447,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977629
+448,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977679
+449,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977728
+450,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977778
+451,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977827
+452,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977876
+453,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977925
+454,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.977974
+455,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978022
+456,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978070
+457,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978118
+458,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978166
+459,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978214
+460,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978261
+461,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978308
+462,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978355
+463,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978402
+464,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978448
+465,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978495
+466,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978541
+467,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978587
+468,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978632
+469,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978678
+470,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978723
+471,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978769
+472,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978814
+473,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978858
+474,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978903
+475,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978947
+476,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.978992
+477,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979036
+478,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979079
+479,Received block blk_<*> of size <*> from /<*>,HIT,0,0.979123
+480,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.979167
+481,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979210
+482,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979253
+483,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979296
+484,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979339
+485,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979381
+486,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979424
+487,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979466
+488,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979508
+489,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979550
+490,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979592
+491,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979633
+492,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979675
+493,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979716
+494,Received block blk_<*> of size <*> from /<*>,HIT,0,0.979757
+495,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.979798
+496,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979839
+497,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979879
+498,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.979920
+499,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.979960
+500,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.980000
+501,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.980040
+502,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.980080
+503,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.980119
+504,Received block blk_<*> of size <*> from /<*>,HIT,0,0.980159
+505,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.980198
+506,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.980237
+507,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.980276
+508,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.980315
+509,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.980354
+510,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.980392
+511,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.980431
+512,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.980469
+513,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.980507
+514,Received block blk_<*> of size <*> from /<*>,HIT,0,0.980545
+515,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.980583
+516,Received block blk_<*> of size <*> from /<*>,HIT,0,0.980620
+517,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.980658
+518,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.980695
+519,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.980732
+520,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.980769
+521,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.980806
+522,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.980843
+523,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.980880
+524,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.980916
+525,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.980952
+526,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.980989
+527,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981025
+528,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.981061
+529,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.981096
+530,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.981132
+531,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981168
+532,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981203
+533,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981238
+534,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981273
+535,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.981308
+536,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981343
+537,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.981378
+538,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981413
+539,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981447
+540,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.981481
+541,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.981516
+542,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.981550
+543,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.981584
+544,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.981618
+545,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.981651
+546,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981685
+547,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.981718
+548,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.981752
+549,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.981785
+550,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981818
+551,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.981851
+552,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.981884
+553,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.981917
+554,Received block blk_<*> of size <*> from /<*>,HIT,0,0.981949
+555,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.981982
+556,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982014
+557,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.982047
+558,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982079
+559,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.982111
+560,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982143
+561,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.982175
+562,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982206
+563,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982238
+564,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982270
+565,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982301
+566,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982332
+567,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982363
+568,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.982394
+569,Verification succeeded for blk_<*>,HIT,0,0.982425
+570,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982456
+571,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982487
+572,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.982517
+573,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982548
+574,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982578
+575,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982609
+576,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982639
+577,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982669
+578,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982699
+579,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982729
+580,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982759
+581,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982788
+582,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.982818
+583,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982847
+584,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982877
+585,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.982906
+586,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982935
+587,Received block blk_<*> of size <*> from /<*>,HIT,0,0.982964
+588,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.982993
+589,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983022
+590,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983051
+591,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983080
+592,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983108
+593,Received block blk_<*> of size <*> from /<*>,HIT,0,0.983137
+594,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983165
+595,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.983193
+596,Received block blk_<*> of size <*> from /<*>,HIT,0,0.983221
+597,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983250
+598,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983278
+599,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983306
+600,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983333
+601,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983361
+602,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.983389
+603,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983416
+604,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983444
+605,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983471
+606,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983498
+607,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983526
+608,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983553
+609,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983580
+610,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983607
+611,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983633
+612,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983660
+613,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.983687
+614,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983713
+615,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983740
+616,Received block blk_<*> of size <*> from /<*>,HIT,0,0.983766
+617,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983793
+618,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983819
+619,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983845
+620,Received block blk_<*> of size <*> from /<*>,HIT,0,0.983871
+621,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983897
+622,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983923
+623,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.983949
+624,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.983974
+625,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984000
+626,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984026
+627,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.984051
+628,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984076
+629,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984102
+630,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984127
+631,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.984152
+632,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984177
+633,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984202
+634,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984227
+635,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984252
+636,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984277
+637,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984301
+638,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984326
+639,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984351
+640,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.984375
+641,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984399
+642,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.984424
+643,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984448
+644,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.984472
+645,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984496
+646,Verification succeeded for blk_<*>,HIT,0,0.984520
+647,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.984544
+648,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984568
+649,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984592
+650,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984615
+651,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984639
+652,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984663
+653,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984686
+654,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984709
+655,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984733
+656,Received block blk_<*> of size <*> from /<*>,HIT,0,0.984756
+657,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984779
+658,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984802
+659,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984825
+660,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984848
+661,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984871
+662,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984894
+663,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.984917
+664,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.984940
+665,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984962
+666,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.984985
+667,Received block blk_<*> of size <*> from /<*>,HIT,0,0.985007
+668,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.985030
+669,Received block blk_<*> of size <*> from /<*>,HIT,0,0.985052
+670,Received block blk_<*> of size <*> from /<*>,HIT,0,0.985075
+671,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.985097
+672,Received block blk_<*> of size <*> from /<*>,HIT,0,0.985119
+673,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.985141
+674,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985163
+675,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985185
+676,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985207
+677,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.985229
+678,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.985251
+679,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985272
+680,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.985294
+681,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985316
+682,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985337
+683,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985359
+684,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985380
+685,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985401
+686,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985423
+687,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.985444
+688,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985465
+689,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.985486
+690,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985507
+691,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985528
+692,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985549
+693,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985570
+694,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.985591
+695,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985612
+696,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.985632
+697,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985653
+698,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985673
+699,Verification succeeded for blk_<*>,HIT,0,0.985694
+700,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985714
+701,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.985735
+702,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.985755
+703,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.985775
+704,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.985795
+705,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985816
+706,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985836
+707,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.985856
+708,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.985876
+709,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.985896
+710,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.985915
+711,Received block blk_<*> of size <*> from /<*>,HIT,0,0.985935
+712,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.985955
+713,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.985975
+714,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.985994
+715,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986014
+716,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986034
+717,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986053
+718,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986072
+719,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986092
+720,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986111
+721,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986130
+722,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986150
+723,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986169
+724,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986188
+725,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986207
+726,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986226
+727,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986245
+728,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986264
+729,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986283
+730,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986301
+731,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986320
+732,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986339
+733,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986357
+734,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986376
+735,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.986395
+736,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986413
+737,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986431
+738,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986450
+739,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986468
+740,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986486
+741,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986505
+742,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986523
+743,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986541
+744,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986559
+745,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986577
+746,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986595
+747,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986613
+748,Received block blk_<*> of size <*> from /<*>,HIT,0,0.986631
+749,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986649
+750,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986667
+751,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986684
+752,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.986702
+753,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986720
+754,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986737
+755,Verification succeeded for blk_<*>,HIT,0,0.986755
+756,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986772
+757,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986790
+758,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986807
+759,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.986825
+760,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986842
+761,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986859
+762,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986877
+763,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986894
+764,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986911
+765,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.986928
+766,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.986945
+767,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.986962
+768,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.986979
+769,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.986996
+770,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987013
+771,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987030
+772,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987047
+773,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987063
+774,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987080
+775,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987097
+776,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987113
+777,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987130
+778,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987147
+779,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987163
+780,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987179
+781,Verification succeeded for blk_<*>,HIT,0,0.987196
+782,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987212
+783,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987229
+784,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987245
+785,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987261
+786,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987277
+787,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987294
+788,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987310
+789,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987326
+790,Verification succeeded for blk_<*>,HIT,0,0.987342
+791,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987358
+792,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987374
+793,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987390
+794,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987406
+795,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987421
+796,Verification succeeded for blk_<*>,HIT,0,0.987437
+797,Verification succeeded for blk_<*>,HIT,0,0.987453
+798,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987469
+799,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987484
+800,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987500
+801,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987516
+802,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987531
+803,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987547
+804,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.987562
+805,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987578
+806,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.987593
+807,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987608
+808,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987624
+809,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987639
+810,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987654
+811,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987670
+812,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987685
+813,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987700
+814,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987715
+815,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987730
+816,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987745
+817,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987760
+818,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987775
+819,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987790
+820,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987805
+821,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987820
+822,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987835
+823,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987849
+824,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987864
+825,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987879
+826,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987893
+827,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987908
+828,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987923
+829,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987937
+830,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987952
+831,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987966
+832,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987981
+833,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987995
+834,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988010
+835,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988024
+836,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988038
+837,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988053
+838,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988067
+839,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988081
+840,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988095
+841,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988109
+842,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988124
+843,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.988138
+844,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988152
+845,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988166
+846,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988180
+847,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988194
+848,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988208
+849,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988221
+850,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988235
+851,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988249
+852,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988263
+853,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988277
+854,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988290
+855,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988304
+856,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988318
+857,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988331
+858,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988345
+859,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988359
+860,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988372
+861,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988386
+862,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988399
+863,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988413
+864,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988426
+865,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988439
+866,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988453
+867,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988466
+868,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988479
+869,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988493
+870,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988506
+871,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988519
+872,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988532
+873,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988545
+874,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988558
+875,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988571
+876,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988584
+877,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988597
+878,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988610
+879,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988623
+880,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988636
+881,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988649
+882,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988662
+883,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988675
+884,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988688
+885,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988701
+886,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988713
+887,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988726
+888,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988739
+889,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988751
+890,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988764
+891,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988777
+892,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988789
+893,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988802
+894,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988814
+895,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988827
+896,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988839
+897,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988852
+898,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988864
+899,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988877
+900,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988889
+901,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988901
+902,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988914
+903,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988926
+904,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988938
+905,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988950
+906,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988962
+907,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988975
+908,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988987
+909,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988999
+910,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989011
+911,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989023
+912,<*>:<*> Starting thread to transfer block blk_<*> to <*>:<*>,MISS,0,0.987939
+913,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987952
+914,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987965
+915,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987978
+916,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987991
+917,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988004
+918,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988017
+919,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988030
+920,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988043
+921,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988056
+922,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988069
+923,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988082
+924,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988095
+925,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988108
+926,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988121
+927,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988134
+928,BLOCK* ask <*>:<*> to delete  blk_<*>,MISS,0,0.987069
+929,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987083
+930,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.987097
+931,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987111
+932,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987124
+933,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987138
+934,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987152
+935,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987166
+936,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987179
+937,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987193
+938,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987207
+939,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987220
+940,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987234
+941,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987248
+942,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987261
+943,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987275
+944,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.987288
+945,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987302
+946,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987315
+947,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987328
+948,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987342
+949,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987355
+950,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987368
+951,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987382
+952,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987395
+953,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987408
+954,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987421
+955,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987435
+956,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987448
+957,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987461
+958,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987474
+959,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987487
+960,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987500
+961,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987513
+962,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987526
+963,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.987539
+964,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987552
+965,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987565
+966,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987578
+967,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987590
+968,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987603
+969,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987616
+970,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987629
+971,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987642
+972,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987654
+973,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987667
+974,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987680
+975,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.987692
+976,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987705
+977,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.987718
+978,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987730
+979,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.987743
+980,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987755
+981,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.987768
+982,Received block blk_<*> of size <*> from /<*>,HIT,0,0.987780
+983,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987792
+984,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987805
+985,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987817
+986,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987830
+987,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987842
+988,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987854
+989,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987867
+990,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987879
+991,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987891
+992,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987903
+993,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987915
+994,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987928
+995,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987940
+996,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987952
+997,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987964
+998,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987976
+999,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.987988
+1000,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988000
+1001,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.988012
+1002,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988024
+1003,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988036
+1004,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988048
+1005,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988060
+1006,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988072
+1007,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988083
+1008,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988095
+1009,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988107
+1010,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988119
+1011,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988131
+1012,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988142
+1013,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988154
+1014,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988166
+1015,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988177
+1016,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988189
+1017,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988201
+1018,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.988212
+1019,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988224
+1020,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988235
+1021,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988247
+1022,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988258
+1023,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988270
+1024,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988281
+1025,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988293
+1026,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988304
+1027,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988315
+1028,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988327
+1029,BLOCK* ask <*>:<*> to delete  blk_<*>,HIT,0,0.988338
+1030,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988350
+1031,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988361
+1032,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988372
+1033,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988383
+1034,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988395
+1035,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988406
+1036,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988417
+1037,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988428
+1038,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988439
+1039,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988450
+1040,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988462
+1041,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988473
+1042,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988484
+1043,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988495
+1044,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988506
+1045,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988517
+1046,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988528
+1047,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988539
+1048,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988550
+1049,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988561
+1050,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988571
+1051,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988582
+1052,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988593
+1053,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988604
+1054,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988615
+1055,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988626
+1056,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988636
+1057,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988647
+1058,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988658
+1059,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988669
+1060,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988679
+1061,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988690
+1062,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988701
+1063,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988711
+1064,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988722
+1065,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988732
+1066,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988743
+1067,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988754
+1068,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988764
+1069,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988775
+1070,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988785
+1071,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988796
+1072,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988806
+1073,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988816
+1074,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988827
+1075,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988837
+1076,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988848
+1077,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.988858
+1078,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988868
+1079,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988879
+1080,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988889
+1081,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988899
+1082,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988909
+1083,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988920
+1084,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988930
+1085,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988940
+1086,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.988950
+1087,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988960
+1088,Received block blk_<*> of size <*> from /<*>,HIT,0,0.988971
+1089,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.988981
+1090,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.988991
+1091,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989001
+1092,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989011
+1093,Verification succeeded for blk_<*>,HIT,0,0.989021
+1094,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989031
+1095,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989041
+1096,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989051
+1097,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989061
+1098,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989071
+1099,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989081
+1100,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989091
+1101,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989101
+1102,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989111
+1103,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989121
+1104,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989130
+1105,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989140
+1106,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989150
+1107,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989160
+1108,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989170
+1109,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989179
+1110,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989189
+1111,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989199
+1112,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989209
+1113,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989218
+1114,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989228
+1115,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989238
+1116,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989247
+1117,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989257
+1118,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989267
+1119,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989276
+1120,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989286
+1121,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989295
+1122,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989305
+1123,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989314
+1124,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989324
+1125,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989333
+1126,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989343
+1127,<*>:<*>:Got exception while serving blk_<*> to /<*>:,HIT,0,0.989352
+1128,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989362
+1129,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989371
+1130,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989381
+1131,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989390
+1132,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989399
+1133,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989409
+1134,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989418
+1135,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989427
+1136,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989437
+1137,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989446
+1138,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989455
+1139,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989464
+1140,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989474
+1141,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989483
+1142,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989492
+1143,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989501
+1144,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989510
+1145,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989520
+1146,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989529
+1147,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989538
+1148,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989547
+1149,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989556
+1150,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989565
+1151,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.989574
+1152,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989583
+1153,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989592
+1154,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989601
+1155,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989610
+1156,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989619
+1157,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989628
+1158,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989637
+1159,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989646
+1160,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989655
+1161,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989664
+1162,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989673
+1163,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989682
+1164,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989691
+1165,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989700
+1166,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989708
+1167,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989717
+1168,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989726
+1169,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989735
+1170,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989744
+1171,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989752
+1172,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989761
+1173,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989770
+1174,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989779
+1175,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.989787
+1176,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989796
+1177,<*>:<*> Served block blk_<*> to /<*>,HIT,0,0.989805
+1178,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989813
+1179,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989822
+1180,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989831
+1181,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989839
+1182,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989848
+1183,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989856
+1184,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989865
+1185,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.989873
+1186,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.989882
+1187,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989890
+1188,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989899
+1189,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989907
+1190,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989916
+1191,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989924
+1192,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989933
+1193,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989941
+1194,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989950
+1195,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.989958
+1196,Received block blk_<*> of size <*> from /<*>,HIT,0,0.989967
+1197,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989975
+1198,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.989983
+1199,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.989992
+1200,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990000
+1201,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990008
+1202,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990017
+1203,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990025
+1204,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990033
+1205,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990041
+1206,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990050
+1207,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990058
+1208,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990066
+1209,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990074
+1210,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990083
+1211,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990091
+1212,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990099
+1213,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990107
+1214,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990115
+1215,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990123
+1216,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990132
+1217,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990140
+1218,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990148
+1219,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990156
+1220,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990164
+1221,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990172
+1222,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990180
+1223,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990188
+1224,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990196
+1225,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990204
+1226,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990212
+1227,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990220
+1228,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990228
+1229,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990236
+1230,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990244
+1231,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990252
+1232,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990260
+1233,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990268
+1234,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990276
+1235,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990283
+1236,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990291
+1237,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990299
+1238,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990307
+1239,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990315
+1240,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990323
+1241,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990330
+1242,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990338
+1243,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990346
+1244,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990354
+1245,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990361
+1246,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990369
+1247,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990377
+1248,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990385
+1249,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990392
+1250,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990400
+1251,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990408
+1252,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990415
+1253,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990423
+1254,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990431
+1255,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990438
+1256,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990446
+1257,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990453
+1258,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990461
+1259,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990469
+1260,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990476
+1261,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990484
+1262,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990491
+1263,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.990499
+1264,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.990506
+1265,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.990514
+1266,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.990521
+1267,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990529
+1268,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990536
+1269,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990544
+1270,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990551
+1271,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990559
+1272,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990566
+1273,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990573
+1274,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990581
+1275,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990588
+1276,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990596
+1277,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990603
+1278,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990610
+1279,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990618
+1280,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990625
+1281,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990632
+1282,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990640
+1283,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990647
+1284,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990654
+1285,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990661
+1286,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990669
+1287,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990676
+1288,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990683
+1289,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990690
+1290,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990698
+1291,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990705
+1292,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990712
+1293,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990719
+1294,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990726
+1295,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.990734
+1296,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990741
+1297,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990748
+1298,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990755
+1299,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990762
+1300,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990769
+1301,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990776
+1302,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990783
+1303,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990790
+1304,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990798
+1305,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990805
+1306,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990812
+1307,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990819
+1308,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990826
+1309,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990833
+1310,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990840
+1311,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990847
+1312,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990854
+1313,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990861
+1314,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990868
+1315,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990875
+1316,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990881
+1317,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990888
+1318,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990895
+1319,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990902
+1320,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990909
+1321,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990916
+1322,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990923
+1323,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990930
+1324,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990937
+1325,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990943
+1326,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990950
+1327,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990957
+1328,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990964
+1329,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990971
+1330,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990977
+1331,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990984
+1332,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990991
+1333,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990998
+1334,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991004
+1335,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991011
+1336,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991018
+1337,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991025
+1338,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991031
+1339,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991038
+1340,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991045
+1341,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991051
+1342,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991058
+1343,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991065
+1344,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991071
+1345,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991078
+1346,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991085
+1347,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991091
+1348,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991098
+1349,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991105
+1350,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991111
+1351,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991118
+1352,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991124
+1353,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991131
+1354,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991137
+1355,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991144
+1356,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991150
+1357,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991157
+1358,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991163
+1359,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991170
+1360,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991176
+1361,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991183
+1362,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991189
+1363,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991196
+1364,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991202
+1365,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991209
+1366,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991215
+1367,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991222
+1368,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991228
+1369,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991234
+1370,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991241
+1371,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991247
+1372,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991254
+1373,Verification succeeded for blk_<*>,HIT,0,0.991260
+1374,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991266
+1375,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991273
+1376,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991279
+1377,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991285
+1378,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991292
+1379,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991298
+1380,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991304
+1381,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991311
+1382,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991317
+1383,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991323
+1384,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991329
+1385,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991336
+1386,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991342
+1387,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991348
+1388,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991354
+1389,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991361
+1390,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991367
+1391,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991373
+1392,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991379
+1393,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991385
+1394,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991392
+1395,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991398
+1396,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991404
+1397,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991410
+1398,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991416
+1399,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991422
+1400,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991429
+1401,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991435
+1402,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991441
+1403,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991447
+1404,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991453
+1405,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991459
+1406,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991465
+1407,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991471
+1408,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991477
+1409,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991483
+1410,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991489
+1411,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991495
+1412,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991501
+1413,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991507
+1414,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991513
+1415,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991519
+1416,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991525
+1417,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991531
+1418,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991537
+1419,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991543
+1420,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991549
+1421,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991555
+1422,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991561
+1423,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991567
+1424,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991573
+1425,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991579
+1426,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991585
+1427,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991591
+1428,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991597
+1429,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991603
+1430,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991608
+1431,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991614
+1432,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991620
+1433,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991626
+1434,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991632
+1435,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991638
+1436,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991643
+1437,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991649
+1438,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991655
+1439,Received block blk_<*> src: /<*>:<*> dest: /<*>:<*> of size <*>,MISS,0,0.990966
+1440,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990972
+1441,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.990978
+1442,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.990985
+1443,Received block blk_<*> of size <*> from /<*>,HIT,0,0.990991
+1444,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.990997
+1445,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991003
+1446,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991010
+1447,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991016
+1448,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991022
+1449,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991028
+1450,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991034
+1451,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991041
+1452,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991047
+1453,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991053
+1454,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991059
+1455,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991065
+1456,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991071
+1457,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991078
+1458,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991084
+1459,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991090
+1460,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991096
+1461,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991102
+1462,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991108
+1463,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991114
+1464,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991120
+1465,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991126
+1466,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991132
+1467,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991138
+1468,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991144
+1469,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991150
+1470,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991156
+1471,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991162
+1472,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991168
+1473,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991174
+1474,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991180
+1475,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991186
+1476,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991192
+1477,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991198
+1478,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991204
+1479,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991210
+1480,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991216
+1481,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991222
+1482,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991228
+1483,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991234
+1484,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991240
+1485,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991246
+1486,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991252
+1487,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991258
+1488,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991263
+1489,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991269
+1490,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991275
+1491,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991281
+1492,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991287
+1493,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991293
+1494,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991299
+1495,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991304
+1496,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991310
+1497,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991316
+1498,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991322
+1499,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991328
+1500,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991333
+1501,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991339
+1502,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991345
+1503,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991351
+1504,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991356
+1505,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991362
+1506,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991368
+1507,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991374
+1508,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991379
+1509,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991385
+1510,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991391
+1511,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991396
+1512,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991402
+1513,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991408
+1514,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991413
+1515,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991419
+1516,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991425
+1517,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991430
+1518,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991436
+1519,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991442
+1520,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991447
+1521,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991453
+1522,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991459
+1523,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991464
+1524,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991470
+1525,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991475
+1526,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991481
+1527,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991487
+1528,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991492
+1529,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991498
+1530,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991503
+1531,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991509
+1532,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991514
+1533,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991520
+1534,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991525
+1535,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991531
+1536,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991536
+1537,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991542
+1538,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991547
+1539,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991553
+1540,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991558
+1541,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991564
+1542,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991569
+1543,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991575
+1544,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991580
+1545,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991586
+1546,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991591
+1547,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991597
+1548,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991602
+1549,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991607
+1550,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991613
+1551,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991618
+1552,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991624
+1553,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991629
+1554,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991634
+1555,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991640
+1556,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991645
+1557,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991651
+1558,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991656
+1559,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991661
+1560,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991667
+1561,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991672
+1562,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991677
+1563,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991683
+1564,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991688
+1565,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991693
+1566,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991699
+1567,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991704
+1568,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991709
+1569,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991714
+1570,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991720
+1571,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991725
+1572,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991730
+1573,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991736
+1574,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991741
+1575,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991746
+1576,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991751
+1577,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.991756
+1578,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991762
+1579,BLOCK* ask <*>:<*> to delete  blk_<*>,HIT,0,0.991767
+1580,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991772
+1581,BLOCK* ask <*>:<*> to delete  blk_<*>,HIT,0,0.991777
+1582,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991783
+1583,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991788
+1584,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991793
+1585,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991798
+1586,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991803
+1587,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991808
+1588,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991814
+1589,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991819
+1590,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991824
+1591,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991829
+1592,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991834
+1593,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991839
+1594,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991844
+1595,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991850
+1596,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991855
+1597,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991860
+1598,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991865
+1599,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991870
+1600,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991875
+1601,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991880
+1602,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991885
+1603,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991890
+1604,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991895
+1605,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991900
+1606,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991905
+1607,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991910
+1608,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991915
+1609,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.991920
+1610,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991925
+1611,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991930
+1612,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991935
+1613,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.991940
+1614,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991945
+1615,Verification succeeded for blk_<*>,HIT,0,0.991950
+1616,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991955
+1617,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991960
+1618,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991965
+1619,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991970
+1620,Received block blk_<*> of size <*> from /<*>,HIT,0,0.991975
+1621,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.991980
+1622,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991985
+1623,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.991990
+1624,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.991995
+1625,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992000
+1626,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992005
+1627,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992010
+1628,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992015
+1629,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992020
+1630,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992025
+1631,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992029
+1632,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992034
+1633,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992039
+1634,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992044
+1635,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992049
+1636,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992054
+1637,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992059
+1638,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992063
+1639,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992068
+1640,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992073
+1641,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992078
+1642,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992083
+1643,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992088
+1644,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992092
+1645,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992097
+1646,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992102
+1647,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992107
+1648,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992112
+1649,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992116
+1650,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992121
+1651,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992126
+1652,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992131
+1653,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992136
+1654,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992140
+1655,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992145
+1656,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992150
+1657,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992154
+1658,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992159
+1659,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992164
+1660,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992169
+1661,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992173
+1662,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992178
+1663,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992183
+1664,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992188
+1665,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992192
+1666,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992197
+1667,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992202
+1668,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992206
+1669,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992211
+1670,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992216
+1671,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992220
+1672,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992225
+1673,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992230
+1674,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992234
+1675,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992239
+1676,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992243
+1677,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992248
+1678,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992253
+1679,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992257
+1680,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992262
+1681,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992267
+1682,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992271
+1683,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992276
+1684,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992280
+1685,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992285
+1686,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992289
+1687,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992294
+1688,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992299
+1689,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992303
+1690,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992308
+1691,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992312
+1692,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992317
+1693,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992321
+1694,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992326
+1695,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992330
+1696,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992335
+1697,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992339
+1698,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992344
+1699,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992348
+1700,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992353
+1701,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992357
+1702,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992362
+1703,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992366
+1704,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992371
+1705,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992375
+1706,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992380
+1707,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992384
+1708,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992389
+1709,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992393
+1710,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992398
+1711,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992402
+1712,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992407
+1713,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992411
+1714,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992415
+1715,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992420
+1716,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992424
+1717,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992429
+1718,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992433
+1719,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992437
+1720,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992442
+1721,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992446
+1722,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992451
+1723,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992455
+1724,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992459
+1725,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992464
+1726,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992468
+1727,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992472
+1728,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992477
+1729,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992481
+1730,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992486
+1731,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992490
+1732,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992494
+1733,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992499
+1734,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992503
+1735,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992507
+1736,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992512
+1737,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992516
+1738,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992520
+1739,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992524
+1740,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992529
+1741,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992533
+1742,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992537
+1743,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992542
+1744,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992546
+1745,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992550
+1746,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992554
+1747,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992559
+1748,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992563
+1749,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992567
+1750,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992571
+1751,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992576
+1752,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992580
+1753,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992584
+1754,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992588
+1755,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992593
+1756,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992597
+1757,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992601
+1758,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992605
+1759,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992609
+1760,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992614
+1761,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992618
+1762,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992622
+1763,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992626
+1764,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992630
+1765,BLOCK* ask <*>:<*> to replicate blk_<*> to datanode(s) <*>:<*>,MISS,0,0.992068
+1766,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992072
+1767,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992077
+1768,Received block blk_<*> src: /<*>:<*> dest: /<*>:<*> of size <*>,HIT,0,0.992081
+1769,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992086
+1770,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992090
+1771,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992095
+1772,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992099
+1773,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992104
+1774,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992108
+1775,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992113
+1776,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992117
+1777,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992122
+1778,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992126
+1779,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992130
+1780,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992135
+1781,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992139
+1782,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992144
+1783,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992148
+1784,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992152
+1785,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992157
+1786,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992161
+1787,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992166
+1788,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992170
+1789,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992174
+1790,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992179
+1791,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992183
+1792,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992188
+1793,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992192
+1794,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992196
+1795,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992201
+1796,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992205
+1797,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992209
+1798,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992214
+1799,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992218
+1800,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992222
+1801,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992227
+1802,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992231
+1803,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992235
+1804,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992239
+1805,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992244
+1806,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992248
+1807,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992252
+1808,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992257
+1809,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992261
+1810,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992265
+1811,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992269
+1812,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992274
+1813,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992278
+1814,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992282
+1815,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992287
+1816,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992291
+1817,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992295
+1818,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992299
+1819,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992303
+1820,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992308
+1821,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992312
+1822,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992316
+1823,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992320
+1824,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992325
+1825,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992329
+1826,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992333
+1827,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992337
+1828,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992341
+1829,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992346
+1830,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992350
+1831,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992354
+1832,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992358
+1833,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992362
+1834,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992366
+1835,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992371
+1836,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992375
+1837,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992379
+1838,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992383
+1839,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992387
+1840,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992391
+1841,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992395
+1842,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992400
+1843,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992404
+1844,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992408
+1845,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992412
+1846,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992416
+1847,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992420
+1848,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992424
+1849,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992428
+1850,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992432
+1851,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992437
+1852,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992441
+1853,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992445
+1854,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992449
+1855,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992453
+1856,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992457
+1857,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992461
+1858,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992465
+1859,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992469
+1860,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992473
+1861,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992477
+1862,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992481
+1863,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,HIT,0,0.992485
+1864,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992489
+1865,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992493
+1866,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992497
+1867,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992501
+1868,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992505
+1869,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992509
+1870,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992513
+1871,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992517
+1872,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992521
+1873,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992525
+1874,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992529
+1875,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992533
+1876,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992537
+1877,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992541
+1878,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992545
+1879,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992549
+1880,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992553
+1881,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992557
+1882,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992561
+1883,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992565
+1884,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992569
+1885,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992573
+1886,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992577
+1887,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992581
+1888,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992585
+1889,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992589
+1890,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992593
+1891,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992597
+1892,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992600
+1893,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992604
+1894,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992608
+1895,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992612
+1896,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992616
+1897,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992620
+1898,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992624
+1899,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992628
+1900,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992632
+1901,BLOCK* ask <*>:<*> to delete  blk_<*>,HIT,0,0.992635
+1902,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992639
+1903,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992643
+1904,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992647
+1905,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992651
+1906,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992655
+1907,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992659
+1908,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992662
+1909,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992666
+1910,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992670
+1911,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992674
+1912,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992678
+1913,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992682
+1914,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992685
+1915,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992689
+1916,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992693
+1917,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992697
+1918,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992701
+1919,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992705
+1920,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992708
+1921,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992712
+1922,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992716
+1923,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992720
+1924,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992723
+1925,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992727
+1926,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992731
+1927,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992735
+1928,Verification succeeded for blk_<*>,HIT,0,0.992739
+1929,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992742
+1930,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992746
+1931,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992750
+1932,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992754
+1933,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992757
+1934,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992761
+1935,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992765
+1936,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992769
+1937,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992772
+1938,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992776
+1939,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992780
+1940,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992784
+1941,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992787
+1942,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992791
+1943,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992795
+1944,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992798
+1945,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992802
+1946,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992806
+1947,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992809
+1948,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992813
+1949,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992817
+1950,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992821
+1951,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992824
+1952,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992828
+1953,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992832
+1954,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992835
+1955,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992839
+1956,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992843
+1957,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992846
+1958,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992850
+1959,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992853
+1960,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992857
+1961,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992861
+1962,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992864
+1963,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992868
+1964,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992872
+1965,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992875
+1966,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992879
+1967,Deleting block blk_<*> file /<*>/blk_<*>,HIT,0,0.992883
+1968,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992886
+1969,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992890
+1970,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992893
+1971,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992897
+1972,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992901
+1973,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992904
+1974,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992908
+1975,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992911
+1976,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992915
+1977,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992919
+1978,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992922
+1979,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992926
+1980,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992929
+1981,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992933
+1982,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992936
+1983,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992940
+1984,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992944
+1985,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992947
+1986,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992951
+1987,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,HIT,0,0.992954
+1988,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992958
+1989,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992961
+1990,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992965
+1991,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,HIT,0,0.992968
+1992,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992972
+1993,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992975
+1994,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992979
+1995,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992982
+1996,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992986
+1997,Received block blk_<*> of size <*> from /<*>,HIT,0,0.992989
+1998,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.992993
+1999,PacketResponder <*> for block blk_<*> terminating,HIT,0,0.992996
+2000,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,HIT,0,0.993000
